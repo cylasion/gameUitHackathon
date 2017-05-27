@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f90842a7d68cd3045adcd1c9e4eedc2c
+timeCreated: 1495867607
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: VNI-Korin
+  fontNames:
+  - VNI-Korin
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1e0efad2a1083f142978b2a5754000a6, type: 3}
+  - {fileID: 12800000, guid: f2e8e2e9170a5144d9fd8c8f5509ffa2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
